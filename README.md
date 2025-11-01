@@ -31,5 +31,5 @@ News API (optional)
 
 # 👨‍💻 Author
 Kakde Krushna
-💼 LinkedIn: [Add your link](https://www.linkedin.com/in/krushna5000/)
-🌐 Portfolio:[ Add your website link](https://krushna5000.github.io/Portfolio/)
+💼 LinkedIn: [ Linkedin_Link](https://www.linkedin.com/in/krushna5000/)
+🌐 Portfolio:[ Portfolio_link](https://krushna5000.github.io/Portfolio/)
