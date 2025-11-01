@@ -1,5 +1,5 @@
-🚀 Trading With AI – Intelligent Stock Market Chatbot
-
+**🚀 Trading With AI – Intelligent Stock Market Chatbot
+**
 The Trading With AI application is a smart trading-assistant chatbot built to help users analyze stocks, get trading insights, and understand financial markets using AI.
 This project combines React, Node.js / Spring Boot (backend), and AI APIs to deliver real-time stock insights & conversation-based trading guidance.
 
