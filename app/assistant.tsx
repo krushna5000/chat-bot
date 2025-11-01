@@ -46,7 +46,7 @@ export const Assistant = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      trading platform 
+                      Trading platform 
                     </BreadcrumbLink>
                   </BreadcrumbItem>
                   <BreadcrumbSeparator className="hidden md:block" />
