@@ -118,24 +118,24 @@ const ThreadSuggestions: FC = () => {
     <div className="aui-thread-welcome-suggestions grid w-full gap-2 pb-4 @md:grid-cols-2">
       {[
         {
-          title: "What's the weather",
-          label: "in San Francisco?",
-          action: "What's the weather in San Francisco?",
+          title: "Get the latest stock price",
+          label: "for AAPL",
+          action: "What's the current stock price of AAPL and today's % change?",
         },
         {
-          title: "Explain React hooks",
-          label: "like useState and useEffect",
-          action: "Explain React hooks like useState and useEffect",
+          title: "Explain technical indicators",
+          label: "like RSI and MACD",
+          action: "Explain RSI and MACD with example values and how traders use them",
         },
         {
-          title: "Write a SQL query",
-          label: "to find top customers",
-          action: "Write a SQL query to find top customers",
+          title: "Analyze a trade setup",
+          label: "for EUR/USD on the 1h chart",
+          action: "Analyze EUR/USD on the 1h timeframe and outline a potential trade setup with entry, stop, and targets",
         },
         {
-          title: "Create a meal plan",
-          label: "for healthy weight loss",
-          action: "Create a meal plan for healthy weight loss",
+          title: "Create a trading plan",
+          label: "for swing trading",
+          action: "Create a swing trading plan with risk management rules and position sizing",
         },
       ].map((suggestedAction, index) => (
         <m.div
